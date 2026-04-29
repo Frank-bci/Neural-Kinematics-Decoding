@@ -16,7 +16,7 @@
 - **速度解码 (Velocity)**: X-R² ≈ 0.80, Y-R² ≈ 0.70
 - **位置重建 (Position)**: 最佳 X-R² 达到 0.92 (基于分段积分与 KF-EM 优化)
 
-![Decoding Result](results/performance_comparison.png)
+![Decoding Result](bci_ultimate_victory.png)
 
 ## 🛠️ 安装与运行
 
