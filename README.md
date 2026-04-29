@@ -17,7 +17,7 @@
 - **位置重建 (Position)**: 最佳 X-R² 达到 0.92 (基于分段积分与 KF-EM 优化)
 
 ![Decoding Result](bci_ultimate_victory.png)
-(kalman_position_decoding_complete.png)
+![Decoding Result](kalman_position_decoding_complete.png)
 ## 🛠️ 安装与运行
 
 1. **克隆仓库**:
